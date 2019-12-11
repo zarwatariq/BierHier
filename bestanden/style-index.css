@@ -90,23 +90,22 @@ section{
 
 .text-lenght {
  width: 430px;
+ padding-right: 30px;
 }
 .kebab-img{
 margin-left:700px;
- margin-top: -1000px;
+ margin-top: -1050px;
+ padding-bottom: 600px;
+}
+img{
+ border-radius: 50px;
+}
+.kebab-img-style{
+ padding-left: 450px;
+ margin-top: -350px;
  padding-bottom: 600px;
 }
 
-.kebab-img-style{
- padding-left: 500px;
- margin-top: -400px;
- padding-bottom: 300px;
-}
-.kebab-recipe-img{
- padding-left: 100px;
- margin-top: -100px;
- padding-bottom: 300px;
-}
 /* header image*/
 
 
@@ -147,6 +146,8 @@ footer a {
  position:absolute;
  animation:slideshow 20s infinite;
  opacity:0;
+ padding-right: 100px;
+ padding-top:60px;
 
 }
 
