@@ -1,0 +1,59 @@
+/*Body layout */
+* {
+    box-sizing: border-box;
+
+}
+ body{
+
+ }
+
+div#wrapper , footer , section{
+    margin: auto;
+    width: 1000px;
+    background-color: white;
+    padding: 20px;
+}
+nav {
+    background-color: pink;
+    padding: 10px;
+    margin: auto;
+    width: 1000px
+}
+
+nav a {
+    color: deeppink;
+    font-weight: bold;
+    text-decoration: none;
+    padding-right: 30px;
+    border-right: 2px;
+}
+
+/*Section1 */
+section{
+    background-color: lavender;
+
+}
+.map {
+    width: 500px;
+    height: 300px;
+    border: 0px;
+    frameborder: "0";
+    border: 0px;
+}
+
+.adress {
+    float: right;
+}
+/*Section2 */
+
+/*Footer*/
+footer{
+    background-color:grey;
+    color: white;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
