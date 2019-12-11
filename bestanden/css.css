@@ -30,7 +30,7 @@ nav a {
 
 /*Section1 */
 section{
-    background-color: lavender;
+
 
 }
 .map {
@@ -45,11 +45,19 @@ section{
     float: right;
 }
 
-.me1 {
-    width: 500px;
-    height: 500px;
+.me1 , .me2 {
+    width: 400px;
+    height: 300px;
+    border-style: double;
+    border-color: lightskyblue ;
 }
-/*Section2 */
+.me3 , .me4{
+    float: right;
+    width: 50%;
+    padding-top: 100px;
+    padding-right: 20px;
+
+}
 
 /*Footer*/
 footer{
