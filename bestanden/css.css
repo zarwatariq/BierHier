@@ -75,6 +75,14 @@ nav a {
     grid-gap: 200px;
     padding: 10px;
 }
+
+.grid2 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+    padding: 10px;
+}
+
 /*Footer*/
 footer{
     background-color:grey;
